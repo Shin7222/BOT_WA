@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "jid": "245547977990282@lid",
+      "limit": 20,
+      "usedLimit": 0,
+      "lastReset": "Sun Mar 15 2026",
+      "exp": 425,
+      "level": 3,
+      "coins": 235,
+      "inventory": [],
+      "premium": false,
+      "premiumExpiry": null,
+      "warnings": 0,
+      "lastActivity": 1773541088006,
+      "banned": false,
+      "registeredAt": 1773541088006,
+      "badges": [
+        "newcomer"
+      ],
+      "lastDaily": 1773570984509,
+      "dailyStreak": 1
+    },
+    {
+      "jid": "6287756846897:35@s.whatsapp.net",
+      "limit": 20,
+      "usedLimit": 0,
+      "lastReset": "Sun Mar 15 2026",
+      "exp": 20,
+      "level": 1,
+      "coins": 0,
+      "inventory": [],
+      "premium": false,
+      "premiumExpiry": null,
+      "warnings": 0,
+      "lastActivity": 1773544723987,
+      "banned": false,
+      "registeredAt": 1773544723987
+    },
+    {
+      "jid": "6287756846897@s.whatsapp.net",
+      "limit": 20,
+      "usedLimit": 0,
+      "lastReset": "Sun Mar 15 2026",
+      "exp": 35,
+      "level": 1,
+      "coins": 0,
+      "inventory": [],
+      "premium": false,
+      "premiumExpiry": null,
+      "warnings": 0,
+      "lastActivity": 1773545075743,
+      "banned": false,
+      "registeredAt": 1773545075743
+    }
+  ],
+  "groups": [
+    {
+      "id": "120363421522809634@g.us",
+      "welcome": false,
+      "welcomeMsg": "Selamat datang @user di @group! 👋",
+      "goodbye": false,
+      "goodbyeMsg": "Selamat tinggal @user dari @group 👋",
+      "antilink": false,
+      "antispam": false,
+      "antitoxic": false,
+      "muted": false,
+      "rules": ""
+    },
+    {
+      "id": "120363303660377052@g.us",
+      "welcome": false,
+      "welcomeMsg": "Selamat datang @user di @group! 👋",
+      "goodbye": false,
+      "goodbyeMsg": "Selamat tinggal @user dari @group 👋",
+      "antilink": false,
+      "antispam": false,
+      "antitoxic": false,
+      "muted": false,
+      "rules": ""
+    }
+  ],
+  "premium": [],
+  "blocked": [],
+  "transactions": [],
+  "settings": {
+    "maintenance": false
+  },
+  "marriages": [],
+  "proposals": [
+    {
+      "from": "245547977990282@lid",
+      "to": "271162944843965@lid",
+      "at": 1773570468889
+    }
+  ],
+  "shop": [
+    {
+      "id": "shield",
+      "name": "🛡️ Perisai",
+      "price": 200,
+      "desc": "Lindungi dari rampok selama 24 jam",
+      "duration": 86400000
+    },
+    {
+      "id": "pickaxe",
+      "name": "⛏️ Cangkul",
+      "price": 350,
+      "desc": "Bonus +50% koin dari daily",
+      "duration": 0
+    },
+    {
+      "id": "sword",
+      "name": "⚔️ Pedang",
+      "price": 500,
+      "desc": "Tingkatkan peluang rampok +20%",
+      "duration": 0
+    },
+    {
+      "id": "ring",
+      "name": "💍 Cincin Emas",
+      "price": 1000,
+      "desc": "Item langka — simbol status",
+      "duration": 0
+    },
+    {
+      "id": "trophy",
+      "name": "🏆 Trofi",
+      "price": 2000,
+      "desc": "Item koleksi prestisius",
+      "duration": 0
+    }
+  ]
+}
