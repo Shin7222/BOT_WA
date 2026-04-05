@@ -5,7 +5,7 @@
       "limit": 20,
       "usedLimit": 0,
       "lastReset": "Sun Mar 15 2026",
-      "exp": 425,
+      "exp": 485,
       "level": 3,
       "coins": 235,
       "inventory": [],
@@ -52,6 +52,22 @@
       "lastActivity": 1773545075743,
       "banned": false,
       "registeredAt": 1773545075743
+    },
+    {
+      "jid": "6289649254468@s.whatsapp.net",
+      "limit": 20,
+      "usedLimit": 0,
+      "lastReset": "Wed Apr 01 2026",
+      "exp": 10,
+      "level": 1,
+      "coins": 0,
+      "inventory": [],
+      "premium": false,
+      "premiumExpiry": null,
+      "warnings": 0,
+      "lastActivity": 1775050950716,
+      "banned": false,
+      "registeredAt": 1775050950716
     }
   ],
   "groups": [
