@@ -2,7 +2,6 @@
 # ENV & CONFIG
 # =========================
 .env
-.env.*
 
 # =========================
 # NODE MODULES
@@ -78,6 +77,7 @@ tmp/
 # =========================
 # DATABASE (OPSIONAL)
 # =========================
+database/database.json
 *.sqlite
 *.db
 
